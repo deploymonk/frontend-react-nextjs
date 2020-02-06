@@ -1,9 +1,12 @@
-# frontend-react-nextjs
+<a href="https://deploymonk.com"><img src="https://deploymonk.com/images/brand.png" alt="Deploy Monk" height="60" /></a>
 
-Repository for the the following guide:
+A super simple Next.js application.
 
-**Next.js**
+## Getting started
 
-Deploy your server-side rendered, front-end websites and web applications build using `zeit/next.js` framework easily using Deploy Monk.
+- Clone this repository: `git clone git@github.com:deploymonk/frontend-react-nextjs.git`
+- Install dependencies: `npm install`
+- Start server: `npm run dev`
 
-Link: [explore.deploymonk.com/docs/frontend-react-nextjs](https://explore.deploymonk.com/docs/frontend-react-nextjs)
+## Deploy
+Deploy your own clone of this repository using Deploy Monk. Head to [explore.deploymonk.com/docs/frontend-react-nextjs](https://explore.deploymonk.com/docs/frontend-react-nextjs) to learn more!
